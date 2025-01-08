@@ -1,1 +1,1 @@
-https://phex.ph/gcash12.php
+https://phex.ph/testing/GCASH/gcash12.php
