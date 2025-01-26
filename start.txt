@@ -1,1 +1,1 @@
-https://phex.ph/CoffeeVendo/login.php
+https://phex.ph/CoffeeVendo/panel/login.php
