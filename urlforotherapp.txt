@@ -1,1 +1,1 @@
-https://bglv2.online/public/payments/v2/getsms.php
+https://bglv2.online/public/payments/v2/getsms.
