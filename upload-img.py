@@ -23,7 +23,7 @@ try:
     files = {'upload[]': open(file_path, 'rb')}
 
     # Send the upload request
-    response = requests.post(upload_url, files=files, verify=False)
+    response = requests.post(upload_url, files=files,  verify=certifi.where())
 
     # Print response
     print("Response:", response.json())  # Check response for success or errors
